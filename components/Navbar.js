@@ -33,7 +33,7 @@ export default function Navbar() {
       <div>
         <Link href={"/"}>
           <h1 className="text-dark text-4xl font-bold tracking-tighter">
-            Tech News
+            Coding News
           </h1>
         </Link>
         <p className="text-sm">
